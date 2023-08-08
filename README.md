@@ -1,1 +1,1 @@
-# jojomotd
+# jojomot
