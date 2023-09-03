@@ -2,10 +2,10 @@
 
 ## Discord Community
 
-Join our vibrant Discord community to connect with other duelers, get a more detailed explanation of our rules , and report any rule breakers.
+Join our vibrant Discord community to connect with other duelers, get a more detailed explanation of our rules , be notified of any events or updates coming to the server , and report any rule breakers.
 
 - **Discord Server:** [Join Now](https://discord.gg/545YB2JWfD)
-- If join now botton doesn't work please copy and paste: https://discord.gg/545YB2JWfD
+- If join now button doesn't work please copy and paste: https://discord.gg/545YB2JWfD
 ## Rules
 
 We want our platform to be a enjoyable place for everyone. Please follow these community rules:
@@ -41,5 +41,5 @@ Bows are allowed if both parties agree to duel, must be away from main dueling a
 - FIRST OFFENSE - SERVER BAN [DURATION : 100,000 MINUTES]
 9. **ADVERTISING:**
 - FIRST OFFENCE - SERVER MUTE [DURATION : PERMANENT]
-## Please note the following: All vote kicks are canceled by staff, and will be reviewed. 
-ALL PUNISHMENTS ARE ONLY ADMINS AND ABOVE DISCRETION. MODERATORS MUST FOLLOW AND EXECUTE ALL OFFENSES ACCORDINGLY! 
+## Please note the following: 
+All vote kicks are canceled by staff, and will be reviewed. ALL PUNISHMENTS ARE ONLY ADMINS AND ABOVE DISCRETION. MODERATORS MUST FOLLOW AND EXECUTE ALL OFFENSES ACCORDINGLY! 
