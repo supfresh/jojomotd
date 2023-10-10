@@ -21,9 +21,9 @@ We want our platform to be a enjoyable place for everyone. Please follow these c
 
 3. **PROHIBITED ITEMS & WEAPONS:** No Ballistas, Bear Traps, Fire Bombs, Smoke Bombs. Medkits (Not allowed during duels) Bandages (Not allowed during duels). 
 Bows are allowed if both parties agree to duel, must be away from main dueling area.
--FIRST OFFENSE - SERVER KICK
--SECOND OFFENSE - SERVER BAN [DURATION : 60 MINUTES]
--THIRD OFFENSE - SERVER BAN [DURATION : 1000 MINUTES]
+- FIRST OFFENSE - SERVER KICK
+- SECOND OFFENSE - SERVER BAN [DURATION : 60 MINUTES]
+- THIRD OFFENSE - SERVER BAN [DURATION : 1000 MINUTES]
 
 5. **RACISM or HOMOPHOBIA:** 
 - FIRST OFFENSE - SERVER MUTE [DURATION : PERMSNENT] 
