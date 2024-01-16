@@ -20,7 +20,7 @@ We want our platform to be a enjoyable place for everyone. Please follow these c
 - ANY OFFENSE - ORIGINAL BAN TIME + 2000 MINUTES  
 
 3. **PROHIBITED ITEMS & WEAPONS:** No Ballistas, Bear Traps, Fire Bombs, Smoke Bombs. Medkits (Not allowed during duels) Bandages (Not allowed during duels). 
-Bows are allowed if both parties agree to duel, must be away from main dueling area.
+Bows are allowed if both parties agree to duel, you must TP away from main duel area to start a bow duel.(type "tp list" into chat to see the list of TPs, no bows at tp mid)
 - FIRST OFFENSE - SERVER KICK
 - SECOND OFFENSE - SERVER BAN [DURATION : 60 MINUTES]
 - THIRD OFFENSE - SERVER BAN [DURATION : 1000 MINUTES]
