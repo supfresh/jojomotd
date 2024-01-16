@@ -4,7 +4,8 @@
 
 Join our vibrant Discord community to connect with other duelers, get a more detailed explanation of our rules , be notified of any events or updates coming to the server , and report any rule breakers.
 
-- **Discord Server:** https://discord.gg/545YB2JWfD
+- **Discord Server:** [Join our Discord server](https://discord.gg/545YB2JWfD)
+
 
 ## Rules
 
