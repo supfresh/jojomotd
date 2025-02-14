@@ -42,5 +42,4 @@ Bows are allowed if both parties agree to duel, you must TP away from main duel 
   
 9. **ADVERTISING:**
 - FIRST OFFENCE - SERVER MUTE [DURATION : 100000]
-## Please note the following: 
-All vote kicks are canceled by staff, and will be reviewed. ALL PUNISHMENTS ARE ONLY ADMINS AND ABOVE DISCRETION. MODERATORS MUST FOLLOW AND EXECUTE ALL OFFENSES ACCORDINGLY! 
+
